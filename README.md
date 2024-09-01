@@ -2,8 +2,6 @@
 Desafio III Metodologias Ágeis e Gerenciamento de Projetos do Hackathon 2024 da Santo Digital
 # AdventureWorks Data Analysis Application
 
-Este repositório contém a aplicação web de análise de dados desenvolvida para a empresa fictícia AdventureWorks. A aplicação permite que os stakeholders visualizem e interajam com os dados de vendas de maneira intuitiva e informativa.
-
 ## Índice
 - [Visão Geral do Projeto](#visão-geral-do-projeto)
 - [Decisões de Design e Tecnologias](#decisões-de-design-e-tecnologias)
