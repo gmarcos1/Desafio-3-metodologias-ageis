@@ -7,9 +7,6 @@ Desafio III Metodologias Ágeis e Gerenciamento de Projetos do Hackathon 2024 da
 - [Decisões de Design e Tecnologias](#decisões-de-design-e-tecnologias)
 - [Desenvolvimento da Solução](#desenvolvimento-da-solução)
 - [Desafios e Soluções](#desafios-e-soluções)
-- [Como Executar](#como-executar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 
 ## Visão Geral do Projeto
