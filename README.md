@@ -11,6 +11,7 @@ Desafio III Metodologias Ágeis e Gerenciamento de Projetos do Hackathon 2024 da
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
 
+
 ## Visão Geral do Projeto
 
 A aplicação foi desenvolvida para atender aos seguintes requisitos de negócio:
@@ -19,6 +20,19 @@ A aplicação foi desenvolvida para atender aos seguintes requisitos de negócio
 3. **Desempenho de Vendas por Vendedor:** KPIs e análise de funil de vendas.
 4. **Vendas por Região:** Mapas interativos e previsões baseadas em machine learning.
 5. **CRUD para Registros de Produtos:** Gestão robusta e auditada de produtos.
+
+## Gestão de Projetos
+
+Para organizar o desenvolvimento deste projeto, utilizei o Jira, uma ferramenta de gerenciamento de projetos amplamente usada para planejar, acompanhar e gerenciar o progresso das sprints e backlogs.
+
+### Como o Jira foi Utilizado
+
+- **Planejamento de Sprints:** As sprints foram organizadas em ciclos de duas semanas. Cada sprint incluía um conjunto de histórias de usuário prioritárias, que foram estimadas com o uso de "Planning Poker" e pontuadas com base na complexidade e esforço necessário.
+- **Gestão do Backlog:** Criei e priorizei histórias de usuário no backlog do Jira, de acordo com os requisitos de negócio. A cada sprint, selecionei as histórias mais importantes para serem desenvolvidas.
+- **Monitoramento do Progresso:** Utilizei os quadros Kanban e Scrum do Jira para acompanhar o progresso das tarefas, desde o planejamento até a conclusão. Esta abordagem visual facilitou a identificação de bloqueios e gargalos, garantindo uma entrega contínua e eficiente.
+- **Relatórios e Análises:** Gereis relatórios de desempenho e burn-down charts no Jira para analisar a velocidade do desenvolvimento, identificar áreas de melhoria e ajustar o planejamento das sprints subsequentes.
+
+A utilização do Jira permitiu uma organização mais eficaz das tarefas, melhorou a comunicação e garantiu que os requisitos de negócio fossem atendidos de maneira sistemática e eficiente.
 
 ## Decisões de Design e Tecnologias
 
